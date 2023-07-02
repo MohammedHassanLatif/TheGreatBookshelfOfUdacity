@@ -198,8 +198,6 @@ curl http://127.0.0.1:5000/books/15 -X PATCH -H "Content-Type: application/json"
   "success": true
 }
 Deployment N/A
-Authors
-Yours truly, Coach Caryn
 
 Acknowledgements
-The awesome team at Udacity and all of the students, soon to be full stack extraordinaires!
+The awesome team at Udacity!
